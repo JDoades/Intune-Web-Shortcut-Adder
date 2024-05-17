@@ -16,7 +16,7 @@ In the version field, put
 1
 
 
-In the install command put the following (but change the purple mash and shortcuturl to where you want it to go to) (don't include the back ticks...)
+In the install command put the following (but change the purple mash and shortcuturl to where you want it to go to) (if you're reading this in  a plain text reader, don't include the back ticks... If you're reading in a markdown reader, nice!)
 
 ```
 
